@@ -1,0 +1,22 @@
+{
+  "to_do": [
+    {
+      "id": 0,
+      "activity": "wake up",
+      "priority": false,
+      "completed": true
+    },
+    {
+      "activity": "take a bath",
+      "priority": false,
+      "completed": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "activity": "going to the office",
+      "priority": true,
+      "completed": false
+    }
+  ]
+}
